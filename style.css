@@ -1,0 +1,296 @@
+.margin_auto_30 {
+	margin: auto 30%;
+}
+.margin_auto_25 {
+	margin: auto 25%;
+}
+.margin_auto_20 {
+	margin: auto 20%;
+}
+.margin_auto_5 {
+	margin: auto 5%;
+}
+.exercise01 {
+	background-color: #EEFFFF;
+    padding: 10px 15px;
+}
+.color-red {
+	color: #FF0000;
+}
+
+.exercise02 {
+	background-color: #008000;
+    padding: 20px;
+}
+.background-red {
+	background-color: #FF0000;
+	padding: 1px;
+}
+.margin-top {
+	margin-top: 50px !important;
+}
+.font-style04 {
+	margin-left: 5px;
+	font-weight: 600;
+    font-size: 27px;
+}
+.content-04 {
+	margin-top: 20px;
+}
+.flex-block {
+	display: flex;
+	margin: 10px 0;
+	align-items: center;
+}
+.flex-item-01 {
+	flex: 1;
+}
+.flex-item-02 {
+	flex: 2;
+}
+
+.exercise06 {
+	font-family: sans-serif;
+}
+.header06 {
+	padding: 25px;
+	background-color: #F4F4F4;
+	text-align: center;
+	border-bottom: 3px solid #CCCCCC;
+	font-size: 18px;
+}
+.content06 {
+	text-align: center;
+	padding: 40px 0;
+	font-size: 18px;
+}
+.margin-bottom {
+	margin-bottom: 20px;
+}
+
+.header07 {
+	text-align: center;
+	
+}
+.header07 h2 {
+	color: #0000EE;
+	text-decoration: underline;
+}
+.footer07 {
+	margin-bottom: 50px;
+}
+
+.exercise08 {
+	background-color: #D8DA3D;
+	padding: 15px;
+}
+.exercise08 ul {
+	color: #125FC3;
+}
+.exercise08 li::marker {
+	color: #88127A;
+}
+.content08 {
+	color: #88127A;
+}
+.content08 sub {
+	font-size: 17px;
+}
+
+.exercise09 {
+	background-color: #CCCCFF;
+	padding: 20px;
+	font-size: 17px;
+}
+.padding09 {
+	padding: 10px 20px;
+}
+.color-text-109 {
+	color: #550000;
+}
+.color-text-209 {
+	color: #08004E;
+}
+.padding09 p {
+	margin: 0;
+	padding-left: 25px;
+}
+.div03 {
+	border: 3px dashed #000000;
+}
+.exercise10 {
+	font-size: 20px;
+}
+.exercise11 {
+	font-size: 20px;
+}
+.th-color11 {
+	background-color: #CCCCCC;
+}
+.td-color11 {
+	background-color: #ABE113;
+}
+.exercise12 {
+	font-size: 18px;
+}
+.td-color12 {
+	color: #3E88D3;
+}
+.td-bold-color {
+	color: #1F508E;
+}
+
+.exercise13 {
+	background-color: #A9D7D1;
+	padding: 20px;
+	font-size: 15px;
+	font-family: sans-serif;
+	color: #4D565C;
+}
+.exercise13 table {
+	table-layout: fixed;
+	width: 100%;
+}
+.title13 {
+	margin: 0;
+	margin-bottom: 20px;
+}
+.text-center {
+	text-align: center;
+}
+.content13 {
+	background-color: #FFFFFF;
+	padding: 20px 0;
+}
+.tr13 td:first-child {
+	text-align: right;
+	vertical-align: top;
+}
+.tr13 td:last-child {
+	text-align: left;
+}
+.input13 {
+	background-color: #59ACE0;
+    color: white;
+    border: none;
+    padding: 7px 12px;
+    border-radius: 3px;
+}
+
+.exercise14 {
+	font-size: 18px;
+	font-family: sans-serif;
+}
+.exercise14 legend {
+	color: #0045D7;
+	font-size: 20px;
+	font-weight: bold;
+}
+.exercise14 fieldset {
+	border-color: #070707;
+}
+.form14 {
+	margin: 20px;
+}
+.form14 table {
+	padding: 0 50px;
+}
+.tr14 td:first-child {
+	vertical-align: top;
+	text-align: right;
+}
+.tr14 td:last-child input {
+	background-color: #FFFFA0;
+    line-height: 20px;
+    border: inset;
+}
+.tr14 p {
+	margin: 5px 0;
+}
+.tr1402 td:first-child {
+	vertical-align: top;
+	text-align: right;
+}
+.tr1402 textarea {
+	border-color: #90A4C3;
+}
+.tr1402 input {
+	padding: 3px 8px;
+}
+
+.exercise15 {
+	background-color: #3F1D16;
+	padding: 50px 100px;
+}
+.content15 {
+	background-color: #F7F7F7;
+	padding: 10px 20px 100px 20px;
+	border-radius: 0 0 20px 20px;
+}
+.title15 {
+	background-color: #1C050C;
+	text-align: center;
+	padding: 10px;
+	border-radius: 20px 20px 0 0;
+}
+.title15 h2 {
+	color: #FFFFFF;
+	margin: 0;
+	font-weight: 400;
+}
+.item15 select {
+	font-size: 20px;
+}
+.item15 input {
+	line-height: 28px;
+	background-color: #F7F7F7;
+	border: 1px solid #848484;
+}
+.submit15 {
+	margin: 30px;
+}
+.submit15 input {
+	background-color: #9F283D;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 10px 30px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+}
+
+.exercise16 {
+	background-color: red;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+}
+.exercise16 p {
+	margin: 5px 0;
+}
+
+.button17 {
+	font-size: 32px;
+    font-weight: bold;
+    border: none;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 15px 30px;
+    background-color: #428BCA;
+}
+
+.exercise18 img {
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+
+.exercise19>p {
+	font-weight: bold;
+}
+
+.input20 input {
+	font-size: 20px;
+    background-color: #C0C0C0;
+    border: 1px solid #A5A5A5;
+}
